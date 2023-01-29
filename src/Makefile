@@ -42,7 +42,7 @@
 # Define required environment variables
 #------------------------------------------------------------------------------------------------
 # Define target platform: PLATFORM_DESKTOP, PLATFORM_RPI, PLATFORM_DRM, PLATFORM_ANDROID, PLATFORM_WEB
-PLATFORM             ?= PLATFORM_DESKTOP
+PLATFORM             ?= PLATFORM_DRM
 
 # Define required raylib variables
 RAYLIB_VERSION        = 4.2.0
